@@ -6,10 +6,10 @@ git branch какие ветки созданы
 git branch Postman создание новой ветки 
 git branch Jmeter создание новой ветки 
 git branch CheckLists создание новой ветки 
-git branch Bag Reports создание новой ветки 
+git branch Bag_Reports создание новой ветки 
 git branch SQL создание новой ветки 
 git branch Charles создание новой ветки 
-git branch Mobile testing создание новой ветки 
+git branch Mobile_testing создание новой ветки 
 git push origin --all отправили все ветки на внешний репозиторий
 git checkout bagreports переход в ветку 
 vim bag_reports.txt создали текстовый документ
