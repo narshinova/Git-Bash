@@ -2,7 +2,7 @@
 Создание новой ветки, merge ветки
 ********************************
 Создание нового репозитрия GitHub.-HW_2 на  github.com-repositiries-new-repository name-create repository
-git branch * какие ветки созданы
+git branch какие ветки созданы
 git branch Postman создание новой ветки 
 git branch Jmeter создание новой ветки 
 git branch CheckLists создание новой ветки 
