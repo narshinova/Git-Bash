@@ -11,13 +11,13 @@ git branch SQL создание новой ветки
 git branch Charles создание новой ветки 
 git branch Mobile_testing создание новой ветки 
 git push origin --all отправили все ветки на внешний репозиторий
-git checkout bagreports переход в ветку 
+git checkout Bag_Reports переход в ветку 
 vim bag_reports.txt создали текстовый документ
 git add . добавляем файлы
 git commit -m "" сохраняем состояние и добавялем сообщение
 git push отправляем файлы на внешний сервер
 git checkout main переход в ветку
-git merge bagreports вмержили ветку
+git merge Bag_Reports вмержили ветку
 git add . добавляем файлы
 git commit -m "" сохраняем состояние и добавялем сообщение
 git push отправляем файлы на внешний сервер
