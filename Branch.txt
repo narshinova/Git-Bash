@@ -1,0 +1,30 @@
+*****************************
+Создание новой ветки, merge ветки
+********************************
+Создание нового репозитрия GitHub.-HW_2 на  github.com-repositiries-new-repository name-create repository
+git branch * какие ветки созданы
+git branch Postman создание новой ветки 
+git branch Jmeter создание новой ветки 
+git branch CheckLists создание новой ветки 
+git branch Bag Reports создание новой ветки 
+git branch SQL создание новой ветки 
+git branch Charles создание новой ветки 
+git branch Mobile testing создание новой ветки 
+git push origin --all отправили все ветки на внешний репозиторий
+git checkout bagreports переход в ветку 
+vim bag_reports.txt создали текстовый документ
+git add . добавляем файлы
+git commit -m "" сохраняем состояние и добавялем сообщение
+git push отправляем файлы на внешний сервер
+git checkout main переход в ветку
+git merge bagreports вмержили ветку
+git add . добавляем файлы
+git commit -m "" сохраняем состояние и добавялем сообщение
+git push отправляем файлы на внешний сервер
+git checkout CheckLists переходим в ветку
+vim checklists.txt создаем структуру чек-листа
+git add . добавляем файлы
+git commit -m "" сохраняем состояние и добавялем сообщение
+git push отправляем файлы на внешний сервер
+В GitHub.com заходим в Pull requests-new pull request 
+git pull синхронизация локального и внешенго репозитория
